@@ -1,0 +1,1 @@
+// WAP to input Student Name and Marks of 3 Subjects and find Total Marks, Percentage , Division.
